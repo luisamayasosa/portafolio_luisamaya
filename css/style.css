@@ -1,0 +1,132 @@
+
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #545454;
+}
+
+.nav-item{
+	color: #8C6F0C;
+}
+
+
+
+#sec-first{
+	background-image: url( ../img/OW9A3338.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 100px 0;
+	color: #fff;
+	text-align: center;
+}
+
+.btn-gold{
+	padding: 8px 40px;
+	border-radius: 35px;
+	color: #B79E6E;
+	font-size: 20px;
+	text-transform: uppercase;
+	background-color: transparent;
+	border: 1px solid #B79E6E;
+}
+.btn-gold:hover{
+	background-color: #000;
+	border: 1px solid #B79E6E;
+	color: #B79E6E;
+}
+
+#sec-servicios{
+	background-color: #fff;
+	padding: 100px 0;
+	text-align: center;
+}
+
+.title{
+	font-size: 45px;
+	color: #434345;
+	text-align: center;
+	margin-bottom: 45px;
+	font-weight: 700;
+}
+
+.subtitle{
+	text-align: center;
+}
+
+#sec-servicios h4{
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: 45px;
+}
+#sec-servicios h3{
+	font-size: 24px;
+	color: #434345;
+	font-weight: 700;
+}
+
+.servicios i{
+	font-size: 45px;
+	color: #966B09;
+	text-align: center;
+}
+
+#sec-slider h1{
+	text-align: center;
+	padding-bottom: 290px;
+	font-size: 120px;
+}
+
+#sec-acerca{
+	background-color: #fff;
+	padding: 100px 0;
+	text-align: left;
+}
+
+#sec-acerca h3{
+	text-align: left;
+	font-weight: 700;
+	color: #8E6F12;
+}
+
+#sec-acerca p{
+	text-align: justify;
+}
+
+#sec-contact{
+	background-image: url( ../img/OW9A2870.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 100px 0;
+	color: #fff;
+	text-align: center;
+}
+
+#content{
+	padding: 7% 0;
+}
+
+#content h3{
+	color: #8E6F12;
+}
+
+#content li{
+	color: #8E6F12;
+}
+
+footer{
+	background-color: #000000;
+	background-size: cover;
+	padding: 15px 0;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+footer p{
+	color: #8E6F12;
+}
+
+.navbar-toggler{
+	color: #8E670D;
+}
